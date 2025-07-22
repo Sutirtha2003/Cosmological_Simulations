@@ -1,7 +1,4 @@
 
-# copyright Saddam Leonardo Kap 
-
-# Tutorial link: https://youtu.be/iRYb6wQVaO8
 
 import numpy as np
 
