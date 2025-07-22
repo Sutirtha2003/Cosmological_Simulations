@@ -1,5 +1,4 @@
-# copyright Saddam Leonardo Kap 
-# For Tutorial go to link: https://youtu.be/u88Goguzm9M
+
 
 import os
 os.environ["OMP_NUM_THREADS"] = "1"
